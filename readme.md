@@ -4,7 +4,7 @@
 
 [![HitCount](http://hits.dwyl.io/ProjectOnlineLeague/masternode-install.svg)](http://hits.dwyl.io/ProjectOnlineLeague/masternode-install)
 
-# Olc Masternode Setup Guide
+# Online-League.io Masternode Setup Guide
 ***
 
 ## Generating a Masternode Private Key
